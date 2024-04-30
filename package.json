@@ -1,0 +1,11 @@
+{
+  "name": "coursework2backend",
+  "version": "1.0.0",
+  "description": "contains code for coursework2",
+  "main": "index.js",
+  "scripts": {
+    "test": "startapp"
+  },
+  "author": "",
+  "license": "ISC"
+}
