@@ -15,6 +15,7 @@ orders.post("/", function (req, res) {
     );
   });
   console.log(order);
+  res.send("Order saved.");
 });
 
 module.exports = orders;
